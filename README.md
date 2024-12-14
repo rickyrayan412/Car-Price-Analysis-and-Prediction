@@ -20,6 +20,7 @@
 - **Global market :** The global used car market was valued at over 900 billion dollers in 2023, and is expected to grow to about 1,500 billion dollers by 2028.
 - **Indian market :** The Indian used car market was valued at about 5.6 billion dollers in 2023, and is expected to grow to about 12.4 billion dollers by 2030.
 - **Challenges :** Buyers should be aware of quality concerns, such as accidents, wear and tear, and other issues that can affect a car's performance and reliability. Many used cars are sold "as-is, " meaning the buyer is responsible for any repairs or maintenance.
+  
 **Factors driving growth :**
 - **Rising internet penetration :** Makes information on used cars more accessible.
 - **Increasing demand for off-lease vehicles :** Car dealers, leasing offices, and franchises are increasingly demanding off-lease vehicles.
